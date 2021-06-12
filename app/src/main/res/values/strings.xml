@@ -1,0 +1,37 @@
+<resources>
+    <!--<string name="app_name">FaceCase</string>-->
+
+    <!-- Progress Dialog -->
+    <string name="progress_dialog_loading">Loading...</string>
+    <string name="app_version_name">1.0.6</string>
+    <string name="app_version_text">Version:</string>
+
+    <string name="txt_category">Choose a Category</string>
+    <string name="txt_additional_categories">Additional Categories</string>
+    <string name="txt_facecase_introduction">FACECASE INTRO</string>
+    <string name="txt_before_playing">BEFORE PLAYING</string>
+    <string name="txt_facecase_watch_sample">WATCH SAMPLE</string>
+
+    <string name="txt_before_playing_list"><![CDATA[1. Thoroughly shuffle the card deck <br/>
+        2. Divide chips evenly between individuals/groups of players<br/>
+        3. Each player/group-Choose one category from music/sounds and one from pictures<br/>
+        4. Each player/group-Take2 decision cards-One for betting a wrong answer and one for betting a right answer.<br/>
+        5. Each player/group is responsible for their own chip count.<br/>
+        6. Each player/group-Ante $25.00 Chip<br/>
+        7. Pick a card from the card deck first.  Follow the instructions on the card and choose a category to begin.]]></string>
+    <string name="txt_pic_category">Picture Categories</string>
+    <string name="txt_music_category">Music Categories</string>
+    <string name="txt_play_11_second_title">TAKE ABOUT 30 SECONDS TO GUESS OR PLAY FOR ADDITIONAL 11 SECOND</string>
+    <string name="txt_time_answer">TIME TO ANSWER!</string>
+    <string name="txt_buy_this_category">BUY THIS CATEGORY</string>
+
+    <!-- View text -->
+    <string name="view_loading">Loading...</string>
+
+    <!-- Toast message -->
+    <string name="toast_ignored_fast_click">Ignored fast click!</string>
+    <string name="toast_could_not_retrieve_info">Could not retrieve info</string>
+    <string name="toast_could_not_retrieve_device_info">Could not retrieve device info</string>
+    <string name="toast_network_error">You have no internet connection!\nPlease connect to internet.</string>
+    <string name="toast_no_info_found">No info found</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" >
+
+        <shape android:shape="rectangle">
+            <!--apply a border around button-->
+            <stroke android:color="@color/color_white"
+                android:width="10dp" />
+            <solid android:color="@color/color_bg"/>
+            <!-- make the button corners rounded-->
+            <corners android:radius="7dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+
+            <stroke
+                android:width="10dp"
+                android:color="@color/color_white" />
+            <solid android:color="@color/color_bg"/>
+            <corners
+                android:radius="5dp" />
+
+        </shape>
+    </item>
+</selector>
